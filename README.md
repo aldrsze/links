@@ -31,3 +31,7 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 ## Self-hosted
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — free software you can host yourself
+
+## Code Hosting
+
+- [github.com](https://github.com) — hosted git repositories and collaboration tools
