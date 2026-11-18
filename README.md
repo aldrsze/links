@@ -34,6 +34,8 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 
 **[sxyazi/yazi](https://github.com/sxyazi/yazi)** - fast terminal file manager.
 
+**[wiki.archlinux.org](https://wiki.archlinux.org)** - provides comprehensive Arch Linux documentation and guides.
+
 ## Dotfiles
 
 **[twpayne/chezmoi](https://github.com/twpayne/chezmoi)** - manage dotfiles across machines safely.
