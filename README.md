@@ -4,13 +4,14 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 
 ## Cheatsheets
 
+- [fmhy.net](https://fmhy.net) — curated index of free media, tools, and sites
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) — lists, manuals, cheatsheets, cli/web tools
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) — community cheatsheets for console commands
+- [wotaku.wiki](https://wotaku.wiki) — resources for anime, manga, novels, and tokusatsu
 
 ## CLI tools
 
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) — simple terminal UI for git
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) — trace a process, port, or container back to what started it
 - [junegunn/fzf](https://github.com/junegunn/fzf) — command-line fuzzy finder
 - [neovim/neovim](https://github.com/neovim/neovim) — vim fork focused on extensibility
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) — zsh configuration framework
@@ -30,6 +31,3 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 ## Self-hosted
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) — free software you can host yourself
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) — self-hostable PaaS
-- [immich-app/immich](https://github.com/immich-app/immich) — self-hosted photo and video library
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) — self-hosted uptime monitor
