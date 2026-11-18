@@ -35,3 +35,7 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 ## Code Hosting
 
 - [github.com](https://github.com) — hosted git repositories and collaboration tools
+
+## Terminal Emulators
+
+- [sw.kovidgoyal.net](https://sw.kovidgoyal.net/kitty) — gpu-accelerated terminal emulator for Linux and macOS
