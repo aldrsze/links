@@ -4,6 +4,8 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 
 ## Cheatsheets
 
+**[devdocs.io](https://devdocs.io)** - is an offline documentation browser that lets you search dozens of language references.
+
 **[fmhy.net](https://fmhy.net)** - curated index of free media, tools, and sites.
 
 **[trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)** - lists, manuals, cheatsheets, cli/web tools.
