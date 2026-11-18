@@ -15,6 +15,7 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 - [neovim/neovim](https://github.com/neovim/neovim) — vim fork focused on extensibility
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) — zsh configuration framework
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) — fast terminal file manager
+- [vim.org](https://vim.org) — highly configurable text editor, ships as vi on unix
 
 ## Linux
 
