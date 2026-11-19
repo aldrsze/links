@@ -53,3 +53,7 @@ Repos worth finding again. Same grouping my GitHub lists used, minus the stars.
 ## Terminal Emulators
 
 **[sw.kovidgoyal.net](https://sw.kovidgoyal.net/kitty)** - gpu-accelerated terminal emulator for Linux and macOS.
+
+## Streaming services
+
+**[cinejoy.pk](https://cinejoy.pk)** - offers free streaming of movies and TV shows.
